@@ -1,0 +1,3 @@
+import rendeles
+
+rendeles.pizza()
